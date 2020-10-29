@@ -241,3 +241,18 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
+
+div#tv-radio {
+    width: 800px;
+    height: 240px;
+    margin: auto;
+}
+
+video#filme {
+    display: block;
+    position: relative;
+    left: 5px;
+    top: 10px;
+    width:350px;
+}
+    
